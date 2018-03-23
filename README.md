@@ -1,2 +1,2 @@
 # mystore
-None
+Run away! :-)
